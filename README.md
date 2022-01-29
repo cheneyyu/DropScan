@@ -14,8 +14,8 @@ For any questions or suggestions, please contact:
 
 Dr. Chunyu Yu
 
-Email: ycy@hznu.edu.cn
+Email: ycy at hznu.edu.cn
 
 Prof. Tingting Li
 
-Email: litt@hsc.pku.edu.cn
+Email: litt at hsc.pku.edu.cn
