@@ -12,10 +12,10 @@ example.zip is the example data for the screen_processing script.
 
 For any questions or suggestions, please contact:
 
-Dr.Chunyu Yu
+Dr. Chunyu Yu
 
 Email: ycy@hznu.edu.cn
 
-Prof.Tingting Li
+Prof. Tingting Li
 
 Email: litt@hsc.pku.edu.cn
